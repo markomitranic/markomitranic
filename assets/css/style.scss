@@ -5,6 +5,10 @@
 
 body {
 
+    @media print {
+        font-size: 80%;
+    }
+
     a {
         transition: 0.2s ease-in-out color;
 
@@ -22,6 +26,7 @@ body {
                 margin: 0 auto;
                 text-align: center;
                 overflow: hidden;
+                max-width: 100%!important;
             }
             @media (max-width: 960px) {
                 padding: 0 20px;
@@ -54,7 +59,14 @@ body {
 
                 @media print {
                     float: left;
-                    width: 200px;
+                    width: 160px;
+                    margin-left: 10px;
+                    margin-top: 10px;
+                }
+            }
+            img + p {
+                @media print {
+                    margin-top: 60px;
                 }
             }
             p {
