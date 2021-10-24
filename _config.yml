@@ -1,0 +1,11 @@
+theme: jekyll-theme-minimal
+title: mm
+author: Marko Mitranic
+description: I'm a <strong style="color:#5393fe">software architect</strong> and <strong style="color:#F46B3F">lecturer</strong> <br><strong style="color:#B57BFF">conference speaker</strong> and <strong style="color:#6CBB47">workshop organizer</strong> living in København.</p><p class="view sidebar-links">[ <a href="/CV.html" target="_parent" title="Read Marko Mitranic's Curriculum Vitæ"><strong>CV</strong></a> / <a href="https://medium.com/homullus" target="_blank" title="Visit Marko Mitranic's Blog">Blog</a> / <a href="https://github.com/markomitranic" target="_blank" title="Visit Marko Mitranic's GitHub profile">GitHub</a> / <a href="https://www.linkedin.com/in/marko-mitranic/" target="_blank" title="Visit Marko Mitranic's LinkedIn profile">LinkedIn</a> / <a href="https://www.instagram.com/markomitranic/" target="_blank" title="Visit Marko Mitranic's Instagram profile">Instagram</a> ]
+show_downloads: false
+logo: /assets/marko-mitranic-avatar.jpg
+github:
+  is_user_page: false
+  is_project_page: false
+  repository_url: https://github.com/markomitranic
+  owner_url: https://github.com/markomitranic
