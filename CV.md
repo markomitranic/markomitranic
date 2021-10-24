@@ -4,8 +4,6 @@ title: Curriculum Vitæ - Marko Mitranić - Homullus
 
 # Curriculum Vitæ - Marko Mitranić
 
-I'm Marko Mitranić. I'm a <strong style="color:#5393fe">software architect</strong> and <strong style="color:#F46B3F">lecturer</strong> living in København. I'm also a <strong style="color:#B57BFF">conference speaker</strong> and a <strong style="color:#6CBB47">workshop organizer</strong>.
-
 (Full CV availabile on [my LinkedIn](https://www.linkedin.com/in/marko-mitranic/))
 
 - 🗺 I live in beautiful København, Danmark.
@@ -28,6 +26,7 @@ I'm Marko Mitranić. I'm a <strong style="color:#5393fe">software architect</str
 
 **Architecture Technician** in Civil Engineering<br>
 [Architecture school "Vojislav Ilić"](https://yeditepe.edu.tr/en) - Belgrade, Serbia _(2006 - 2010)_
+
 ## 👩🏼‍💻 Employment
 
 **Senior Backend Engineer** @ [Vital Beats](https://vitalbeats.com/) _(Nov 2020 - Present)_ <br>
