@@ -44,7 +44,7 @@ World's leading lead generation platform in finance and iGaming, Tier 1 global b
   - <strong>Architecture & tech leadership, Infrastructure owner and mentor</strong>
   - Led a departmant of 35 engineers in all aspects, on a high-value core business product.
   - Took charge of major scaling and refactoring efforts and releases to 7 markets.
-  - Helped shape teams and agile processes while championing searvant leadership.
+  - Helped shape teams and agile processes while championing servant leadership.
   - Oversaw research projects, SEO & CI initiatives.
   - **_Tech:_** PHP, Python, Symfony, React, MongoDB, CloudFlare, Docker, Kubernetes, AWS, SQL, IPS
 <br><br>
