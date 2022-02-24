@@ -29,7 +29,7 @@ title: Curriculum Vitæ - Marko Mitranić - Homullus
 
 ## 👩🏼‍💻 Employment
 
-**Senior Backend Engineer** @ [Vital Beats](https://vitalbeats.com/) _(Nov 2020 - Present)_ <br>
+**Technical Lead** @ [Vital Beats](https://vitalbeats.com/) _(Nov 2020 - Present)_ <br>
 CE approved Medical Device, delivering ML-driven ECG analysis and clinical decision support for cardiologists, clinical staff and pacemaker patients.
   - <strong>Technical Lead, Architecture, Interim Product Owner</strong>
   - Managed all aspects of architecture and infrastructure for our platform.
