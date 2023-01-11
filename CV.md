@@ -29,7 +29,17 @@ title: Curriculum Vitæ - Marko Mitranić - Homullus
 
 ## 👩🏼‍💻 Employment
 
-**Technical Lead** @ [Vital Beats](https://vitalbeats.com/) _(Nov 2020 - Present)_ <br>
+**Senior Software Engineer** @ [Weld](https://weld.app) _(May 2022 - Present)_ <br>
+Next-gen data infrastructure technology that enables companies to become truly data-driven. A robust and user-centric AIO hub for data operations.
+  - <strong>Project Lead and Full-Stack IC in a Distributed Data Infrastructure team</strong>
+  - Overseeing data infrastructure ynchronising over 1B records weekly.
+  - Strong focus on enforcing isolation of each customer's data, it's lineage, validity and data governance.
+  - Leading projects and championing initiatives across a range of TypeScript multi-tenant microservices.
+  - Facilitated major releases and legacy systems migrations.
+  - **_Tech:_** TypeScript, NestJS, ReactJS, GraphQL, PostgreSQL, DynamoDB, AWS, Docker
+<br><br>
+
+**Technical Lead** @ [Vital Beats](https://vitalbeats.com/) _(Nov 2020 - May 2022)_ <br>
 CE approved Medical Device, delivering ML-driven ECG analysis and clinical decision support for cardiologists, clinical staff and pacemaker patients.
   - <strong>Technical Lead, Architecture, Interim Product Owner</strong>
   - Managed all aspects of architecture and infrastructure for our platform.
