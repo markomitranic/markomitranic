@@ -6,15 +6,19 @@ I'm a software architect and lecturer conference speaker and workshop organizer 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=markomitranic&count_private=true&show_icons=true&theme=solarized-light" /></p>
 
-- 🗺 I live in beautiful København, Danmark.
-- 👨🏻‍✈️ Over a decade of experience in mentoring, leading successful projects and large teams.
-- ✨ Building user-centric products and architecting for long-term maintainability.
-- 🤖 I find joy in building highly-scalable distributed systems through robust architecture and fault-tolerance.
-- 🦊 In my free time i play with my Welsh Corgi, read old Sci-Fi, watch anime, play co-op games and learn Erlang.
+ - 🇩🇰 I live in beautiful København, Danmark.
+ - 👨🏻‍✈️ Over a decade of experience in mentoring, leading successful teams and large projects.
+ - ✨ Building user-centric products and architecting for long-term maintainability.
+ - 🤖 I find joy in building highly-scalable distributed systems through robust architecture and fault-tolerance.
+ - 🦊 In my free time I play with my Corgi, read old Sci-Fi, watch anime, play co-op games and learn Elixir.
+ - 🫀 _From VR games, high-availability Microservices, leading department of 35 engineers - to high-traffic Enterprise websites, a CE-approved SaaS for cardiologists with ML-assisted tools they dreamed of, to robust data infrastructure as a service._
   
-## I code, teach, write and explore
+## I code, teach, write and explore.
 
-> I do my best to make enaging content that tickles people’s minds. I’m always open to trying new technologies and working on amazing ideas. 😊
+I do my best to make enaging content that tickles people’s minds. I’m always open to challenging the mainstream and working on making amazing ideas a reality. 😊
+
+**Visit my blog:** [medium.com/homullus](https://medium.com/homullus), for some hot takes.
+**Want me to speak at your event? 💖** [Reach out on LinkedIn](https://www.linkedin.com/in/marko-mitranic/), let’s talk.
 
 **Latest blog highlights:**
 We move engineering forward one step at a time. I explain how i did stuff, reasoning and the design process. While you (hopefully) give me their input.
