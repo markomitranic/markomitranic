@@ -11,7 +11,7 @@ I'm a software architect and lecturer conference speaker and workshop organizer 
  - ✨ Building user-centric products and architecting for long-term maintainability.
  - 🤖 I find joy in building highly-scalable distributed systems through robust architecture and fault-tolerance.
  - 🦊 In my free time I play with my Corgi, read old Sci-Fi, watch anime, play co-op games and learn Elixir.
- - 🫀 _From VR games, high-availability Microservices, leading department of 35 engineers - to high-traffic Enterprise websites, a CE-approved SaaS for cardiologists with ML-assisted tools they dreamed of, to robust data infrastructure as a service._
+ - 🫀 _From **VR games**, high-availability **Microservices**, leading **department** of 35 engineers - to high-traffic **Enterprise** websites, a **CE-approved SaaS** for cardiologists with **ML-assisted** tools they dreamed of, to **robust data infrastructure** as a service._
   
 ## I code, teach, write and explore.
 
