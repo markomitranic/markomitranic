@@ -18,10 +18,10 @@ I'm a software architect and lecturer conference speaker and workshop organizer 
 I do my best to make enaging content that tickles people’s minds. I’m always open to challenging the mainstream and working on making amazing ideas a reality. 😊
 
 **Visit my blog:** [medium.com/homullus](https://medium.com/homullus), for some hot takes.
+
 **Want me to speak at your event? 💖** [Reach out on LinkedIn](https://www.linkedin.com/in/marko-mitranic/), let’s talk.
 
-**Latest blog highlights:**
-We move engineering forward one step at a time. I explain how i did stuff, reasoning and the design process. While you (hopefully) give me their input.
+I explain how i built stuff, and you (hopefully) give me your input. You can expect a lot of code, some traveling, some failed and hopefully some successful projects, hacks, thoughts and music uploads. Heres a taste:
 
 | | |
 | ------------- | ------------- |
