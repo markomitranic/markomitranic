@@ -1,6 +1,6 @@
 # Hey there 🖖
 
-My name is Marko Mitranić, but friends usually call me Mark.
+My name is <ins>Marko Mitranic</ins>, but friends usually call me <ins>Maako</ins>.
 
 > 🫀 From **VR games**, high-availability **Microservices**, leading **department** of 35 engineers - to high-traffic **Enterprise** websites, and now a clinical setting giving **cardiologists** the **ML-assisted** tools they dreamed of.
 
