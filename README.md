@@ -4,7 +4,7 @@ My name is <ins>Marko Mitranic</ins>, but friends usually call me <ins>Maako</in
 
 I'm a software architect and lecturer conference speaker and workshop organizer living in København.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=markomitranic&count_private=true&show_icons=true&theme=solarized-light" /></p>
+<p><img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api?username=markomitranic&count_private=true&show_icons=true&theme=solarized-light" /></p>
 
  - 🇩🇰 I live in beautiful København, Danmark.
  - 👨🏻‍✈️ Over a decade of experience in mentoring, leading successful teams and large projects.
